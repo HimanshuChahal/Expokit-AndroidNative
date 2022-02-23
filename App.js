@@ -9,7 +9,7 @@ export default function App() {
       onPress = {() => {
         NativeModules.ActivityStarter.navigateToExample()
       }}>
-        <Text>Navigate to android native activity</Text>
+        <Text>Navigate to android native activity check</Text>
       </TouchableOpacity>
     </View>
   );
